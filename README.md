@@ -7,7 +7,11 @@ The product is not limited to software; it can be hardware or a physical service
 <p>
 Testing has many benefits. Here are some of them:
 
+<<<<<<< HEAD
 <****>Product Quality</****>: High quality is an essential requirement for any product. Testing ensures delivery of a quality product to customers.
+=======
+<b>Product Quality:</b> High quality is an essential requirement for any product. Testing ensures delivery of a quality product to customers.
+>>>>>>> 6f3f84740f593e0bea8cc850cbec5db83ba89b27
 Customer Satisfaction: The product must meet the customer needs. Testing also ensures that as well.
 <****>Security</****>: People are looking for trusted products on which they can rely. Testing helps remove vulnerabilities from a product and make it more secure beforehand.
 </****>Cost-Effectiveness</****>: Testing helps identify issues early, and it costs less time and money to fix them. The same can be very expensive in the future or in the later stages of development.
