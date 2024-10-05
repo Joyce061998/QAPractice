@@ -1,16 +1,18 @@
 </h1>What is Testing?</h1>
+<p>
 Testing is the process of evaluating a product to identify any gaps, errors, improvements, or missing requirements in contrast to the actual requirements.
-
 The product is not limited to software; it can be hardware or a physical service too.
-
+</p>
 <h1>Why is Testing important?</h1>
+<p>
 Testing has many benefits. Here are some of them:
 
-Product Quality: High quality is an essential requirement for any product. Testing ensures delivery of a quality product to customers.
+<****>Product Quality</****>: High quality is an essential requirement for any product. Testing ensures delivery of a quality product to customers.
 Customer Satisfaction: The product must meet the customer needs. Testing also ensures that as well.
-Security: People are looking for trusted products on which they can rely. Testing helps remove vulnerabilities from a product and make it more secure beforehand.
-Cost-Effectiveness: Testing helps identify issues early, and it costs less time and money to fix them. The same can be very expensive in the future or in the later stages of development.
-Types of Testing in uTest
+<****>Security</****>: People are looking for trusted products on which they can rely. Testing helps remove vulnerabilities from a product and make it more secure beforehand.
+</****>Cost-Effectiveness</****>: Testing helps identify issues early, and it costs less time and money to fix them. The same can be very expensive in the future or in the later stages of development.
+
+<# >Types of Testing in uTest</# >
 There are many types of testing methods and approaches. Here we will only discuss the types of testing we conduct on uTest.
 
 Functional Testing: Testing the features/functionality of a product with the intent of locating issues.
